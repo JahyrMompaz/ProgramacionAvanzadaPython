@@ -1,0 +1,8 @@
+Se recomienda la elaboración de programas en este orden
+
+001     holamundo.py
+002     muestravariable.py
+003     usoformat.py
+004     preguntadatos.py
+005     usoregex.py
+
