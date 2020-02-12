@@ -1,4 +1,3 @@
-# Programa 05
 # Pregunta un dato hasta que sea correcto, haciendo validaciones usando
 # expresiones regulares.
 

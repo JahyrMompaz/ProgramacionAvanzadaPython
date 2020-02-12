@@ -1,4 +1,3 @@
-# Progrma 02
 # Declara una variable, y la muestra.
 
 def main():

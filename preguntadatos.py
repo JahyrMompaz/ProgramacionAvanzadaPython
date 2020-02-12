@@ -1,4 +1,3 @@
-# Programa 04
 # Pregunta diferentes tipos de datos, sin validación.
 
 # Importa el módulo requerido para usar datos de tipo Date.

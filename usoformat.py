@@ -1,4 +1,3 @@
-# Programa 03
 # Utiliza la función format de un string, para incrustar valores
 # en una salida.
 

@@ -1,4 +1,3 @@
-# Programa 01
 # holamundo típico. Muestra un simple mensaje, para ilustrar la estructrura
 # típica de un programa.
 
