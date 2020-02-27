@@ -1,9 +1,3 @@
-# holamundo típico. Muestra un simple mensaje, para ilustrar la estructrura
-# típica de un programa.
-
-# El punto de entrada se llamará main
-# Se compone de un estatuto def
-
+# mensaje de saludo cpmp presentacion hacia el usuario
 def main():
-  print("Hola mundo, ahora en Python")
-
+  print("Hola mundo, soy jahyr")
