@@ -1,12 +1,8 @@
-# Utiliza la función format de un string, para incrustar valores
-# en una salida.
-
 def main():
-  intBase = 7
-  intAltura = 5
+  intBase = 15
+  intAltura = 10
   fltAreaTriangulo=(intBase*intAltura)/2
   txt = "Area: {2:0.2f} ( {0} por {1} entre dos )"
   print(txt.format(intBase, intAltura, fltAreaTriangulo))
 
-# El orden de los parámetros proporcionados a format es de base cero.
-# {2:0,0f} es un flotante sin decimales.
+# se hace una operacion multiplicacion dividida entre 2 l cual se hace una vaeiable llamada AreaTriangulo, la base y altura se decidio que fuera de tipo entero.
