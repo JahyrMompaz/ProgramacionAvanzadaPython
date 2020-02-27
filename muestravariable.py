@@ -1,8 +1,4 @@
-# Declara una variable, y la muestra.
-
+# Declara una variable y mostratarla con el mensaje "hola mundo, soy una variable"
 def main():
-  # En python se declara una variable por asignacion. El datatype depende
-  # del valor que se asigna.
   txt="Hola mundo, con variable"
   print(txt)
-  
